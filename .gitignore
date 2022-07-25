@@ -1,0 +1,7 @@
+*.mkv
+data.zip
+**/__pycache__
+.DS_Store
+.vscode/.ropeproject
+*.png
+log.txt
